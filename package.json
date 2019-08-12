@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "script": {
+    "start": "yarn http-server -S -C cert.pem"
+  }
+}
